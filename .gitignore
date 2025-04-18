@@ -91,3 +91,4 @@ build/
 # --------------------------------------------------------
 test-output/
 surefire-reports/
+/.metadata/
